@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on python based projects
 - 🤔 I’m looking for help with understanding socketio
 - 💬 Ask me about python, flask, jinja templating etc
-- 📫 How to reach me: (meetsanghvi98@gmail.com)[mailto:meetsanghvi98@gmail.com]
+- 📫 How to reach me: [meetsanghvi98@gmail.com](mailto:meetsanghvi98@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a dancer (Insta)[www.instagram.com/imeetsanghvi]
+- ⚡ Fun fact: I am a dancer [Insta](www.instagram.com/imeetsanghvi)
