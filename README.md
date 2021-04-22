@@ -9,3 +9,8 @@
 - 📫 How to reach me: [meetsanghvi98@gmail.com](mailto:meetsanghvi98@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a dancer [Insta](www.instagram.com/imeetsanghvi)
+
+Things I love
+- P for Python 
+- P for Pokemon 
+- P for Programmer
