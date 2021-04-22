@@ -13,4 +13,4 @@
 Things I love
 - P for Python 
 - P for Pokemon 
-- P for Programmer
+- P for Programming
