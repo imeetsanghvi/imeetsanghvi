@@ -12,6 +12,6 @@
 
 Things I love
 
-**- P for Python **
-**- P for Pokemon**
-**- P for Programming**
+- **P for Python**
+- **P for Pokemon**
+- **P for Programming**
