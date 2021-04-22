@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on  **3 projects**
-- 🌱 I’m currently learning **flask, socketio & android studio (android app development)**
+- 🌱 I’m currently learning **socketio & android studio (android app development)**
 - 👯 I’m looking to collaborate on **python based projects**
 - 🤔 I’m looking for help with **understanding socketio**
 - 💬 Ask me about **python, flask, jinja templating etc**
