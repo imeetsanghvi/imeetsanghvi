@@ -10,7 +10,7 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am a dancer [Insta](www.instagram.com/imeetsanghvi)**
 
-Things I love
+### Things I love
 
 - **P for Python**
 - **P for Pokemon**
