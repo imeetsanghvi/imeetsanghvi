@@ -15,3 +15,5 @@
 - **P for Python**
 - **P for Pokemon**
 - **P for Programming**
+
+<img src="https://github-readme-stats.vercel.app/api?username=imeetsanghvi&show_icons=true&theme=radical"/>
