@@ -1,19 +1,11 @@
-### Hi there 👋
+### Hi there👋, I am Meet (Nice To "Meet" You 🫂 ) 
 
+I graduated from Arizona State University (Ira Fulton School of Engineering). I completed my Masters in Information Technology and Project Management. 
+I currently work as a Software Development Engineer at Amazon.com. Here, I work with AWS, Java, Spring, Python, and ETLM technologies. 
+In the past, I have worked at Arizona State University and Worley Parsons as a Software Developer. 
 
-- 🔭 I’m currently working on  **2 projects**
-- 🌱 I’m currently learning **django for medium scale deployment**
-- 👯 I’m looking to collaborate on **python based projects**
-<!-- - 🤔 I’m looking for help with **understanding socketio** -->
-- 💬 Ask me about **python, flask, jinja templating etc**
+- 🌱 I’m currently upskilling my React.js Skills
 - 📫 How to reach me: **[meetsanghvi98@gmail.com](mailto:meetsanghvi98@gmail.com)**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I am a dancer [Insta](www.instagram.com/imeetsanghvi)**
 
-### Things I love
-
-- **P for Python**
-- **P for Pokemon**
-- **P for Programming**
-
-<img src="https://github-readme-stats.vercel.app/api?username=imeetsanghvi&show_icons=true&theme=radical"/>
+My most used languages are Python, Javascript, Java & Typescript. 
