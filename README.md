@@ -5,7 +5,7 @@ I currently work as a Software Development Engineer at Amazon.com. Here, I work 
 In the past, I have worked at Arizona State University and Worley Parsons as a Software Developer. 
 
 - 🌱 I’m currently upskilling my React.js Skills
-- 📫 How to reach me: **[meetsanghvi98@gmail.com](mailto:meetsanghvi98@gmail.com)**
+- 📫 How to reach me: **[meets@asu.edu](mailto:meets@asu.edu)**
 - 😄 Pronouns: **He/Him**
 
 My most used languages are Python, Javascript, Java & Typescript. 
